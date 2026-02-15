@@ -1,4 +1,4 @@
-# SchemaCrafter GUI (GTNH 专版)
+# SchemaCrafter
 
 跨版本 Minecraft 蓝图降级转换器，专为《格雷科技：新视野 (GTNH)》等大型模组整合包设计。
 
