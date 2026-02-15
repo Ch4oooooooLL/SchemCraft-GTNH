@@ -67,3 +67,7 @@ minecraft:copper_block	etfuturum:copper_block	0
 ## 许可证
 
 MIT License
+
+## 致谢
+
+本项目由 AI Agent (Claude) 辅助完成开发。
