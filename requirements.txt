@@ -1,0 +1,3 @@
+PyQt6>=6.5.0
+PyQt6-Fluent-Widgets>=1.4.0
+nbtlib>=1.12.0
